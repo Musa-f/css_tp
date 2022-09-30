@@ -1,0 +1,36 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 2em;
+}
+
+h3{
+    color: blue;
+    font-size: 1.5em;
+}
+
+.grey{
+    background: lightslategray;
+}
+
+strong{
+    color: yellowgreen;
+    font-weight: normal;
+}
+
+em{
+    color: orange;
+    font-style: normal;
+    text-decoration: underline;
+    font-size: 1.1em;
+}
+
+.pink{
+    background: pink;
+}
+
+.greenTitle{
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+}
